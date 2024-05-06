@@ -1,5 +1,7 @@
 
 <script>
+
+    
     function myfunction(){
         document.getElementById('francesco').innerHTML = "i am changed";
         document.getElementById('fcc').style.color = "blue";
