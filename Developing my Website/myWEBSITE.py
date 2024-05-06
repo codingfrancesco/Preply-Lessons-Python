@@ -1,6 +1,6 @@
 # make a simple flask app
 
-from flask import Flask, render_template, request, redirect, url_for
+from flask import Flask, render_template, request
 app = Flask(__name__)
 
 

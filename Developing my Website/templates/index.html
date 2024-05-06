@@ -15,7 +15,7 @@
 
 <body>
 
-<h1>My First Heading [h tag]</h1>
+<h1 id="francesco">My First Heading [h tag]</h1>
 <p>My first paragraph. i am writing more text on it
     <br />
     i added br so there is a new link [paragraph tag]<br />
@@ -28,12 +28,19 @@
 
 
 <!-- write a heading H1 with red color and use style attirubue -->
-<h1 style="color:red ">this is heading with red color.</h1>
+<h1 style="color:red " id = "fcc">this is heading with red color.</h1>
 
-<h1 style = "text-align: center; color : blue">This will come to center</h1>
+<h1 style = "text-align: center; color : blue" id="fcc2">This will come to center</h1>
 <h2>hi i did not write any style for this in tag</h2>
 <p>this is a new paragraph</p>
 <h2>ending....</h2>
+
+<button type="button" onclick="myfunction()">click me</button>
+<button type="button" onclick="myfunction2()">click me too</button>
+<button type="button" onclick="myfunction3()">delete everything</button>
+
+
+<script src = "{{ url_for('static', filename='js/script.js') }}"></script>
 
 </body>
 </html>
