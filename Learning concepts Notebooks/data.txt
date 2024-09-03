@@ -1,0 +1,50 @@
+1. Apple - Red
+2. Strawberry - Red
+3. Cherry - Red
+4. Tomato - Red
+5. Raspberry - Red
+6. Cranberry - Red
+7. Watermelon - Red and Green
+8. Pomegranate - Red
+9. Red Grapes - Red
+10. Redcurrant - Red
+11. Orange - Orange
+12. Mango - Yellow and Orange
+13. Peach - Orange
+14. Apricot - Orange
+15. Cantaloupe - Orange
+16. Papaya - Orange
+17. Tangerine - Orange
+18. Banana - Yellow
+19. Lemon - Yellow
+20. Pineapple - Yellow
+21. Pear - Green
+22. Grape - Green
+23. Kiwi - Brown and Green
+24. Honeydew Melon - Green
+25. Lime - Green
+26. Avocado - Green
+27. Green Apple - Green
+28. Green Grapes - Green
+29. Guava - Green
+30. Olive - Green
+31. Blueberry - Blue and Purple
+32. Blackberry - Purple and Black
+33. Plum - Purple
+34. Fig - Purple
+35. Eggplant - Purple
+36. Blackcurrant - Purple
+37. Mulberry - Purple
+38. Passionfruit - Yellow and Purple
+39. Dragonfruit - Pink and Green
+40. Lychee - Red and Pink
+41. Raspberry - Red
+42. Cranberry - Red
+43. Watermelon - Red and Green
+44. Pomegranate - Red
+45. Red Grapes - Red
+46. Redcurrant - Red
+47. Blueberry - Blue and Purple
+48. Blackberry - Purple and Black
+49. Plum - Purple
+50. Fig - Purple

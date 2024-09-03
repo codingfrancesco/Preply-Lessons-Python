@@ -14,7 +14,7 @@
 
 
 <body>
-
+<a href = 'aboutme'> click here to go to about me</a>
 <h1 id="francesco">My First Heading [h tag]</h1>
 <p>My first paragraph. i am writing more text on it
     <br />
@@ -40,7 +40,27 @@
 <button type="button" onclick="myfunction3()">delete everything</button>
 
 
-<script src = "{{ url_for('static', filename='js/script.js') }}"></script>
- 
+
+<script>
+
+    
+    function myfunction(){
+        document.getElementById('francesco').innerHTML = "i am changed";
+        document.getElementById('fcc').style.color = "blue";
+        document.getElementById('fcc2').style.color = "yellow"; 
+    }
+
+    function myfunction2(){
+        document.getElementById('francesco').innerHTML = "My Main Heading";
+        document.getElementById('fcc').style.color = "red";
+        document.getElementById('fcc2').style.color = "green";
+    }
+
+    function myfunction3(){
+        document.body.style.display = "none";
+    }
+
+    
+</script> 
 </body>
 </html>
